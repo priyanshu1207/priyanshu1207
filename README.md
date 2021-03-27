@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @priyanshu1207
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Science Engineering
-- 💞️ I’m looking to collaborate on Python Based Projects
+- 👋 Hi, I’m @priyanshu1207 (Priyanshu Pathak)
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Computer Science Engineering.
+- 💞️ I’m looking to collaborate on Python Based Projects.
 - 📫 How to reach me priyanshupathak600@gmail.com 
 
 <!---
